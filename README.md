@@ -11,18 +11,18 @@ O PDM é a prototipação de um site criado para o projeto PAPO DE MULHER. O pri
 
 **3. Características do site**
 
-. Temáticas: Feminismo, sexualidade, violência, preconceito etc.. 
-. Público alvo: Mulheres de todas as idades 
-. Interatividade: O FAQ permite a interação do usuário com o ADM.
-. Colaboradores: Haverá uma área específica para os colaboradores
-. Contato: Informações para contato estarão disponível no site 
+- Temáticas: Feminismo, sexualidade, violência, preconceito etc.. 
+- Público alvo: Mulheres de todas as idades 
+- Interatividade: O FAQ permite a interação do usuário com o ADM.
+- Colaboradores: Haverá uma área específica para os colaboradores
+- Contato: Informações para contato estarão disponível no site 
 
 **4. Algumas das suas funcionalidades**
 
-. Apresenta um menu subdividido com temáticas específicas: Feminismo, sexualidade etc..
-. Seleciona as principais noticias e as deixa em destaque na tela principal
-. Cadastra novos usuários e realiza o login de usuários antigos 
-. Possibilita ao usuário o cadastro de novas notícias, artigos ou fotos.
-. Permite que o usuário envie uma mensagem para os administradores do site
+- Apresenta um menu subdividido com temáticas específicas: Feminismo, sexualidade etc..
+- Seleciona as principais noticias e as deixa em destaque na tela principal
+- Cadastra novos usuários e realiza o login de usuários antigos 
+- Possibilita ao usuário o cadastro de novas notícias, artigos ou fotos.
+- Permite que o usuário envie uma mensagem para os administradores do site
 
 
